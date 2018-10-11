@@ -19,6 +19,7 @@
 - [BALU14012001](https://github.com/BALAJIRAO676)
 - [Mahesh Sarathchandra](https://github.com/maheshSarathchandra)
 - [AdrianHL](https://github.com/AdrianHL)
+- [FederHico](https://github.com/federhico)
 - [Aman Singh](https://github.com/AMANSINGH1998)
 - [Aditya Anantharaman] (https://github.com/aditya9898)
 - [tanu]https://github.com/TanuAgrawal123
